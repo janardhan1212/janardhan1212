@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janardhan1212
+- 👋 Hi, I’m @Janardhan
 - 👀 I’m interested in javascript,React,Vue. These days I'm dabbling around backend ruby on rails and express
 - 🌱 I’m currently learning micro frontends
 - 📫 How to reach me jana.yerranagu@gmail.com
